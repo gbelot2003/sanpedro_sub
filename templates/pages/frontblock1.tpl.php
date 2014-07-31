@@ -17,7 +17,7 @@ if($language_content->language == "es"){
 			<div class="">
 				<h2 class="front-title"><span class="portal">San Pedro Sula</span></h2>
 				<div>
-					<h5 class="guara"><?php print t("Embark Progress") ?></h5>
+					<h5 class="guara"><?php print t("embark progress") ?></h5>
 				</div>
 				
 					<div class="img-h h"><a title="<?php print t("Hotels") ?>" href="<?php print $hotels ?>">Hotel</a></div>
